@@ -1,0 +1,18 @@
+/*!
+Theme Name: Code Files New Child
+Theme URI: http://underscores.me/
+Author: Satyendra Kumar
+Author URI: https://wordpress.org/satyendra
+Description: This is a Child theme based on Code Files New theme developed by satyendra kumar
+Template: codefiles-new
+Version: 1.0.0
+License: GNU General Public License v2 or later
+License URI: LICENSE
+Text Domain: codefiles
+*/
+main section .base-inner-pg{
+	
+    margin-top: 10%;
+    margin-bottom: 10%;
+
+}
